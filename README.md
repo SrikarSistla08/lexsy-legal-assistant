@@ -112,7 +112,7 @@ The app uses regex patterns to detect various placeholder formats commonly found
 
 ## 🚀 Deployment
 
-This app is deployed on Vercel and accessible at: [Your Vercel URL]
+This app is deployed on Vercel and accessible at: [Lexsy Legal Assistant](https://lexsy-legal-assistant.vercel.app/)
 
 ## 👨‍💻 Developer
 
