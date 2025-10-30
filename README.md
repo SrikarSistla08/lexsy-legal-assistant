@@ -35,7 +35,7 @@ This application streamlines legal document completion by automatically detectin
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
+git clone <repo-url>
 cd lexsy-legal-assistant
 
 # Install dependencies
