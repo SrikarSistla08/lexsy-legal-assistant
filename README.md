@@ -116,7 +116,7 @@ This app is deployed on Vercel and accessible at: [Your Vercel URL]
 
 ## 👨‍💻 Developer
 
-**[Your Name]**
+**Srikar Sistla**
 
 Built as part of the Lexsy Full-Stack Engineer application.
 
